@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rnnEx5", "rnnEx5\rnnEx5.pyproj", "{8EF27306-4C8A-4F93-85E7-ACA38BF6AF75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF27306-4C8A-4F93-85E7-ACA38BF6AF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF27306-4C8A-4F93-85E7-ACA38BF6AF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F4DDFB-E52A-409B-9F58-9946F6A799CD}
+	EndGlobalSection
+EndGlobal

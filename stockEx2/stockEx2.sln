@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stockEx2", "stockEx2\stockEx2.pyproj", "{E07CC7A6-2F6F-43E1-AA85-FA108202267F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07CC7A6-2F6F-43E1-AA85-FA108202267F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07CC7A6-2F6F-43E1-AA85-FA108202267F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA39511-33A3-4BF5-BB7D-D150A51B684F}
+	EndGlobalSection
+EndGlobal
